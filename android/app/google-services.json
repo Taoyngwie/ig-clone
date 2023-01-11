@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33896608385",
+    "project_id": "ig-clone-9c300",
+    "storage_bucket": "ig-clone-9c300.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33896608385:android:a6b5aaff9161d98c9dd380",
+        "android_client_info": {
+          "package_name": "com.example.ig_flutter_taoyngwie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33896608385-u2do24lk3prkg9io4isprgnbtr3uf9gp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpBz-59cQJ8GAlEIJf_bXYjR3o23h8Xdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33896608385-u2do24lk3prkg9io4isprgnbtr3uf9gp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
